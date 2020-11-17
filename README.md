@@ -12,4 +12,4 @@ cd Pyrus
 
 python Pyrus.py
 
-And then if you answer no feel the wrath.
+And then if you answer No feel the wrath.
